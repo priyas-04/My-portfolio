@@ -9,7 +9,7 @@ This project showcases my work, skills, and projects in a clean and responsive d
 - **JavaScript** – Interactivity  
 
 ## 🚀 Live Demo
-Check it out here: [View Portfolio](https://priya3194.github.io/My-portfolio/)
+Check it out here: https://priya3194.github.io/My-portfolio/
 
 ## 📬 Contact
 If you like my work or want to collaborate, reach out to me:
@@ -19,4 +19,5 @@ If you like my work or want to collaborate, reach out to me:
 ---
 
 ⭐ **Give it a star if you like it!**
+
 
