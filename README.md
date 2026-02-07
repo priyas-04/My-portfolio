@@ -9,9 +9,10 @@ This website showcases my work, skills, and projects, and contact details.
 - JavaScript
 
 ## 🚀 Live Demo
-Check it out here: https://priya-04.github.io/My-portfolio/
+Check it out here: https://priyas-04.github.io/My-portfolio/
 
 ## 📬 Contact
 - 📧 Email: priyasss311@gmail.com
+
 
 
